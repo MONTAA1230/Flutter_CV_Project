@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1004125384470",
+    "firebase_url": "https://moncvapp-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "moncvapp",
+    "storage_bucket": "moncvapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004125384470:android:01bf939facbf31e1016a37",
+        "android_client_info": {
+          "package_name": "com.example.cv_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2cDOnc6xaYHcDPxdjN2gvl2duN96bvRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
